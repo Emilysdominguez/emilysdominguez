@@ -17,6 +17,7 @@
 
 ✒️ **Mi frase:** *"Existen diferentes formas de crear, el código es una de esas formas y el diseño es un lenguaje universal"*.
 
+🍀 **Posdata:** para conocerme más, visita mis redes sociales.
 <!--
 **Emilysdominguez/emilysdominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
