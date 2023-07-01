@@ -1,4 +1,6 @@
-### Hola, bienvenida/o a mi perfil 👋
+#![Banner de Emilys Dominguez](https://github.com/Emilysdominguez/emilysdominguez/assets/110004814/7e70c113-558b-450d-8137-672401be4d2d)
+
+## Hola, bienvenida/o a mi perfil 👋
 
 🔹 **Sobre mí:**
 
