@@ -8,8 +8,6 @@
 
 📌 Formo parte del equipo de líderes de Data Science FEM y escribo artículos sobre temas relacionados con la Ciencia de Datos en el blog de la comunidad.
 
-📌 Comparto contenido sobre desarrollo web, diseño, marketing, libros y demás temas de mi interés en mi blog de Medium.
-
 📌 Estudio paulatinamente programación con Python en DataCamp.
 
 📌 He sido Copywriter y Email marketer, actualmente soy voluntaria en Reserva Natura desempeñando esos roles.
