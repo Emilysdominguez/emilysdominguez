@@ -4,7 +4,7 @@
 
 🔹 **Sobre mí:**
 
-📌 Me dedico al diseño web y desarrollo frontend | HTML, CSS (Bootstrap), JavaScript, Wordpress (Elementor / Beaver Builder / WooCommerce), Figma, Canva, entre otras.
+📌 Me dedico al diseño web y desarrollo frontend: HTML, CSS (Bootstrap), JavaScript, Wordpress (Elementor / Beaver Builder / WooCommerce), Figma, Canva, entre otras.
 
 📌 Formo parte del equipo de líderes de Data Science FEM y escribo artículos sobre temas relacionados con la Ciencia de Datos en el blog de la comunidad.
 
@@ -12,11 +12,11 @@
 
 📌 Estudio paulatinamente programación con Python en DataCamp.
 
-📌 He sido Copywriter y Email marketer, actualmente soy voluntaria en Reserva Natura desempeñando esos roles. Es un proyecto que recién se lanzará al mercado como el primer sistema digital de reservas y manejo de visitantes para áreas naturales en Latinoamerica y me emociona formar parte de ello.
+📌 He sido Copywriter y Email marketer, actualmente soy voluntaria en Reserva Natura desempeñando esos roles. Es un proyecto que recién se lanzará al mercado como el primer sistema digital de reservas y manejo de visitantes para áreas naturales en Latinoamérica y me emociona formar parte de ello.
 
-📌 Continúo aprendiendo sobre desarrollo web, diseño de producto, diseño UX/UI y demás cosas que me causan interés personal y que nutren mi perfil profesional.
+📌 Continúo aprendiendo sobre desarrollo web, diseño de productos, diseño UX/UI y demás cosas que me causan interés personal y que nutren mi perfil profesional.
 
-▪️ **Breve descripción personal:** soy curiosa, organizada y metódica, me gusta diseñar, me intereso mucho por aprender/enseñar/crear/experimentar, me gusta trabajar de manera autonoma y tambien en equipo, me encanta conocer diferentes lugares y personas, me importa realizar nuevas actividades y obtener nuevas experiencias personales y profesionales, me interesa involucrarme en comunidades donde pueda contribuir, me encanta leer, viajar y aportar valor a la vida de otras personas.
+▪️ **Breve descripción personal:** Soy curiosa, organizada y metódica. Me gusta diseñar y me intereso mucho por aprender, enseñar, crear y experimentar. Disfruto trabajando de manera autónoma y también en equipo. Me encanta conocer diferentes lugares y personas, y me importa realizar nuevas actividades y obtener nuevas experiencias personales y profesionales. Me interesa involucrarme en comunidades donde pueda contribuir, me encanta leer, viajar y aportar valor a la vida de otras personas.
 
 
 ✒️ **Mi frase:** *"Existen diferentes formas de crear, el código es una de esas formas y el diseño es un lenguaje universal"*.
