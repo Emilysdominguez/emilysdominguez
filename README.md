@@ -1,25 +1,55 @@
-![Banner de Emilys Dominguez](https://github.com/Emilysdominguez/emilysdominguez/assets/110004814/7e70c113-558b-450d-8137-672401be4d2d)
+#### ✨ Hola, bienvenida/o a mi perfil 👋
 
-#### Hola, bienvenida/o a mi perfil 👋
+❗️ Si te interesa ofrecerme una vacante de empleo, quieres ser mi cliente, quieres que participe en tu comunidad, proponerme para speaker, invitarme a participar en un proyecto, etc. 
+➡️ **Contáctame:** emilyscontacto@gmail.com [LinkedIn](https://www.linkedin.com/in/emilysdominguez/)
 
-🔹 **Sobre mí:**
+**Sobre mí:** ⬇️
 
-📌 Me dedico al diseño web y desarrollo frontend: HTML, CSS (Bootstrap), JavaScript, Wordpress (Elementor / Beaver Builder / WooCommerce), Figma, Canva, entre otras.
+📌 **Experiencia:**
 
-📌 Formo parte del equipo de líderes de Data Science FEM, he escrito artículos sobre temas relacionados con la Ciencia de Datos en el [blog de la comunidad.](https://medium.com/@datasciencefem)
+* ✔️ 2 años en diseño web y desarrollo front-end.
+* ✔️ 1 año realizando copywriting, SEO y redacción.
+* ✔️ 6 meses gestionando bases de datos en Excel.
+* ✔️ He trabajado como freelancer desde el 2020.
 
-📌 Formo parte del equipo de coordinadoras de Venezolanas in Tech en el programa Escuelita, donde tenemos como objetivo brindarles conocimientos y herramientas sobre diferentes tecnologías y habilidades a niñas de 14 a 18 años.
+✅ **Tengo experiencia con las siguientes tecnologías, herramientas y metodologías:** 
+* `HTML5` `CSS3` `Bootstrap` `Sass` `JavaScript` `JQuery` `SQL`
+* `Wordpress` `Beaver Builder` `Elementor` `WooCommerce`
+* `Figma` `Adobe XD` `Adobe Illustrator` `Adobe Photoshop` `Canva`
+* `GitHub` `Visual Studio Code` `Google Analytics 4` `Google Tag Manager` `Excel`
+* `Notion` `ClickUp` `Trello` `Miro`
+* `Scrum` `Kanban` `Sprint`
+* `ChatGPT` `GitHub Copilot`
 
-📌 Estudio paulatinamente programación con Python en DataCamp.
+✅ **Tengo conocimientos sobre:**
+* `Web Design` `Front-end Developer` `Graphic Design` `Responsive Design` `Prototyping` `Web Accessibility` `Design Systems` `Agile Methodologies` `UX/UI Design` `Artificial Intelligence Tools` `CSS architecture` `Information architecture` `Databases` `Microsoft Office` `Copywriting` `SEO` `Email Marketing`
 
-📌 He sido Copywriter y Email marketer, fuí voluntaria en Reserva Natura desempeñando esos roles. Es un proyecto que recién se lanzará al mercado como el primer sistema digital de reservas y manejo de visitantes para áreas naturales en Latinoamérica y me emociona formar parte de ello.
+💡 **Estoy aprendiendo:**
+* `API Rest` `Cibersegurity`
 
-📌 Continúo aprendiendo sobre desarrollo web, diseño de productos, diseño UX/UI y demás cosas que me causan interés personal y que nutren mi perfil profesional.
+> _**"Sean cuales sean las herramientas que uses para crear, el verdadero instrumento eres tú. Y a través de ti el universo que nos envuelve se va definiendo".** - Rick Rubin (El acto de crear: una manera de ser)._
 
-▪️ **Breve descripción personal:** Soy curiosa, organizada y metódica. Me gusta diseñar y me intereso mucho por aprender, enseñar, crear y experimentar. Disfruto trabajando de manera autónoma y también en equipo. Me encanta conocer diferentes lugares y personas, y me importa realizar nuevas actividades y obtener nuevas experiencias personales y profesionales. Me interesa involucrarme en comunidades donde pueda contribuir, me encanta leer, viajar y aportar valor a la vida de otras personas.
+👷🏻‍♀️ **He sido voluntaria en:**
 
+* [**Data Science FEM**](https://www.datasciencefem.com/): formando parte del grupo de líderes de la comunidad y ejerciendo el rol de copywriter redactando artículos sobre temas relacionados a la ciencia de datos en el [Blog de Data Science FEM](https://medium.com/@datasciencefem) | 2023. 
+* [**Reserva Natura**](https://lamanodelmono.org/servicios/reserva-natura/): estuve en el equipo de email marketing, encargada de construir la estrategia de email marketing, además del diseño de los templates y la redacción de los emails | 2023. 
+* [**Venezolanas in Tech**](https://www.venezolanasintech.org/): formé parte del grupo de coordinadoras del programa Escuelita | 2023. 
 
-✒️ **Mi frase:** *"Existen diferentes formas de crear, el código es una de esas formas y el diseño es un lenguaje universal"*.
+> _**Estoy convencida de que las comunidades tienen el poder de transformar la vida de las personas y el mundo, es por ello que me intereso en participar en comunidades que esten alineadas con mis valores y propósitos, que generen un impacto positivo en la vida de otras personas e incluso fomenten cambios positivos en la sociedad.**_
 
+🗣 **Confesión personal:**
 
-🍀 **Contáctame:** emilyscontacto@gmail.com
+* Me considero una persona muy curiosa, organizada y metódica.
+* Me encanta la forma en como las habilidades y el conocimiento se interconecta como una red neuronal, sin restarle importancia a la especialización, aprender sobre diferentes cosas brinda una perspectiva más amplia.
+* Tengo el hábito de leer y escribir a diario, me ocupo de cuidar mi salud fisica y mental, me gusta disfrutar las cosas que hago, me divierto creando cosas y me encanta enseñar a otras personas procurando dejar una huella positiva en ellas.
+* Diariamente fomento la mentalidad de ver mis defectos como áreas de mejora, mis errores como oportunidades de crecimiento y mis miedos como una señal de avance continuo.
+
+Este año decidí crear _Metamórfica_, es un conjunto de proyectos que consiste en compartir contenido en diferentes formatos sobre lo que aprendo de tecnología, libros y viajes.
+
+* [**Lectora metamórfica**](https://linktr.ee/lectorametamorfica): reseñas, reflexiones y planes de acción sobre libros.
+* [**Viajera metamórfica**](https://linktr.ee/viajerametamorfica): reseñas, historias, reflexiones y datos sobre viajes.
+* [**Creadora metamórfica**](https://linktr.ee/creadorametamorfica): contenido sobre diseño, desarrollo, ciberseguridad, ciencia de datos, entre otros.
+
+🎀 ¡Te invito a unirte a los proyectos de tu interés! 
+
+🔖 > _**"Ciertas ideas aparecen cuando llega su momento y encuentran la manera de expresarse a través de nosotros".** - Rick Rubin (El acto de crear: una manera de ser)._
