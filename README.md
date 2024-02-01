@@ -1,7 +1,7 @@
 #### ✨ Hola, bienvenida/o a mi perfil 👋
 
 ❗️ Si te interesa ofrecerme una vacante de empleo, quieres ser mi cliente, quieres que participe en tu comunidad, proponerme para speaker, invitarme a participar en un proyecto, etc. 
-➡️ **Contáctame:** emilyscontacto@gmail.com [LinkedIn](https://www.linkedin.com/in/emilysdominguez/)
+➡️ **Contáctame:** emilyscontacto@gmail.com 👉🏻 [LinkedIn](https://www.linkedin.com/in/emilysdominguez/)
 
 **Sobre mí:** ⬇️
 
@@ -46,8 +46,8 @@
 
 Este año decidí crear _Metamórfica_, es un conjunto de proyectos que consiste en compartir contenido en diferentes formatos sobre lo que aprendo de tecnología, libros y viajes.
 
-* [**Lectora metamórfica**](https://linktr.ee/lectorametamorfica): reseñas, reflexiones y planes de acción sobre libros.
-* [**Viajera metamórfica**](https://linktr.ee/viajerametamorfica): reseñas, historias, reflexiones y datos sobre viajes.
+* [**Lectora metamórfica**](https://linktr.ee/lectorametamorfica): resumenes y planes de acción sobre libros.
+* [**Viajera metamórfica**](https://linktr.ee/viajerametamorfica): historias, reflexiones y datos sobre viajes.
 * [**Creadora metamórfica**](https://linktr.ee/creadorametamorfica): contenido sobre diseño, desarrollo, ciberseguridad, ciencia de datos, entre otros.
 
 🎀 ¡Te invito a unirte a los proyectos de tu interés! 
